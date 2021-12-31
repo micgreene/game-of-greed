@@ -1,6 +1,11 @@
-# Lab 6 - Game of Greed 1 #
+# Lab 6 & 7 - Game of Greed #
 
 [Submission Pull Request](https://github.com/idkburkes/game-of-greed/pull/1)
 
+
+
 ## Overview ##
-This lab was the first activity in the game of greed series. We created the Banker class and GameLogic class as the foundation for our game.
+
+This is a command line version of the dice game ```Game of Greed```.
+- Try game online [here](http://www.playonlinedicegames.com/farkle)
+- [Game Rules](https://en.wikipedia.org/wiki/Dice_10000)

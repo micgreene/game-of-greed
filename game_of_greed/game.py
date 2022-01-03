@@ -10,7 +10,7 @@ class Game:
         self.banker = Banker()
         self.num_dice = 6
         
-    def play(self, roller):
+    def play(self, roller = GameLogic.roll_dice):
         starting = self.start_game()
         if starting:  
             while True:
@@ -72,4 +72,8 @@ class Game:
         self.round += 1
         self.num_dice = 6
         print(f'Starting round {self.round}')
+
+if __name__ == '__main__':
+    game = Game()
+    game.play()
         

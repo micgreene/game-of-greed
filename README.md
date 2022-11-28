@@ -1,4 +1,4 @@
-# Lab 6 & 7 - Game of Greed #
+# Game of Greed #
 
 [Submission Pull Request](https://github.com/idkburkes/game-of-greed/pull/1)
 
